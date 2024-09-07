@@ -1,11 +1,17 @@
 # Install fish shell
-`sudo dnf install fish -y`
+```
+sudo dnf install fish -y
+```
 
 # install fisher
-`curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher`
+```
+curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+```
 
 # Install fzf for fish
-`fisher install PatrickF1/fzf.fish`
+```
+fisher install PatrickF1/fzf.fish
+```
 
 # Install fisher plugins
 ```
